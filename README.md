@@ -13,6 +13,10 @@
 - **[mini-react](https://github.com/heeji289/mini-react) - 리액트 라이브러리 만들기**
 - **[heeji.dev](https://github.com/heeji289/heeji.dev) - Next.js 활용 개인 블로그**
 
+## Posts
+
+- **[삶의 지도, 개발자로서 지금까지의 여정](https://heeji.dev/posts/2024-09-16-life-map)**
+
 
 
 ## Links & Contacts
